@@ -1,0 +1,8 @@
+.env*
+.local
+node_modules
+.next
+scripts
+tests
+
+AOM-access.txt
